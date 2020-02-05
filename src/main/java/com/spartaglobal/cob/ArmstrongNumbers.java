@@ -15,13 +15,11 @@ public class ArmstrongNumbers {
         return cubedSum;
     }
 
-    public boolean isArmstrongNumber(int number){
+    public void isArmstrongNumber(int number){
         if(number >= 0 && number == checkArmstrongNumbers(number)){
             System.out.println("This is an armstrong number " + number);
-            return true;
         } else {
             System.out.println("This is not an armstrong number " + number);
-            return false;
         }
     }
 }
