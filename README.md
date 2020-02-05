@@ -11,5 +11,5 @@ There are no known limitations that would affect the running of this code.
 For the testing aspect of this project I used JUnit.
 
 ## Possible Improvements
-If I were to do this project again I would separate the two methods that are in ArmstrongNumbers.java class.
- 
+* If I were to do this project again I would separate the two methods that are in ArmstrongNumbers.java class.
+* Another improvement would be to add more tests to improve my code coverage. 
